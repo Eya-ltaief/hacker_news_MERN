@@ -2,7 +2,7 @@
   "name": "hackers_clone",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "back": "nodemon server",
     "front": "cd client && npm start",
